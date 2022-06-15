@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Eu sou Luis Pontes, sou programador Front End e atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando ao aprendizado de JavaScript e React.
-Meus projeto de estudo inclui ainda Back End, mais especificamente com Node.
+Meu projeto de estudo inclui ainda Back End, mais especificamente com Node.
 
 
 <!--
