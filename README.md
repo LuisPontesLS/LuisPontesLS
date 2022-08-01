@@ -1,8 +1,6 @@
 ### Olá! 👋
 
-Eu sou Luis Pontes, sou programador Front End e atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando ao aprendizado de JavaScript e React.
-Meu projeto de estudo inclui ainda Back End, mais especificamente com Node.
-
+Eu sou Luis Pontes, sou estudante de programação. Possuo conhecimentos em HTML, CSS, JavaScript e atualmente estou estudando Node.js e concluindo a formação em Análise e Desenvolvimento de Sistemas.
 
 <!--
 **LuisPontesLS/LuisPontesLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
