@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Eu sou Luis Pontes, sou estudante de programação. Possuo conhecimentos em HTML, CSS, JavaScript e atualmente estou estudando Node.js e concluindo a formação em Análise e Desenvolvimento de Sistemas.
+Eu sou Luis Pontes, sou estudante de programação. Possuo conhecimentos em HTML, CSS, JavaScript e atualmente estou estudando Node.js e concluindo a formação superior em Análise e Desenvolvimento de Sistemas.
 
 <!--
 **LuisPontesLS/LuisPontesLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
