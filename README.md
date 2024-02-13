@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Eu sou Luis Leonardo Pontes, desenvolvedor Front End formado em Análise e Desenvolvimento de Sistemas. Possuo conhecimentos em HTML, CSS, JavaScript, GitHub; noções de MySQL e conceitos de UX e UI. Atualmente estou desenvolvendo habilidades em Node.js e iniciando React.
+Eu sou Luis Leonardo Pontes, desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas. Possuo conhecimentos em Java, JavaScript, CSS, HTML, GitHub; noções de MySQL e conceitos de UX e UI. Atualmente estou desenvolvendo habilidades em Node.js e iniciando React.
 
 <!--
 **LuisPontesLS/LuisPontesLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
